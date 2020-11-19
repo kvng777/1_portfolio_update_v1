@@ -215,8 +215,10 @@ header h1 {
   padding: 10px;
 }
 
-ul em {
+label {
   font-weight: bold;
+  font-style: italic;
+  padding-bottom: 5px;
 }
 
 .card ul {
